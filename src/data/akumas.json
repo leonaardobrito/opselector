@@ -1,0 +1,782 @@
+[
+  {
+    "Character": "Absalom",
+    "Devil Fruit": "Suke Suke no Mi"
+  },
+  {
+    "Character": "Alpacaman",
+    "Devil Fruit": "Alpaca SMILE"
+  },
+  {
+    "Character": "Alvida",
+    "Devil Fruit": "Sube Sube no Mi"
+  },
+  {
+    "Character": "Aramaki",
+    "Devil Fruit": "Mori Mori no Mi"
+  },
+  {
+    "Character": "Azuki",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Babanuki",
+    "Devil Fruit": "Elephant SMILE"
+  },
+  {
+    "Character": "Baby 5",
+    "Devil Fruit": "Buki Buki no Mi"
+  },
+  {
+    "Character": "Bao Huang",
+    "Devil Fruit": "Flying Squirrel SMILE"
+  },
+  {
+    "Character": "Bartholomew Kuma",
+    "Devil Fruit": "Nikyu Nikyu no Mi"
+  },
+  {
+    "Character": "Bartolomeo",
+    "Devil Fruit": "Bari Bari no Mi"
+  },
+  {
+    "Character": "Basil Hawkins",
+    "Devil Fruit": "Wara Wara no Mi"
+  },
+  {
+    "Character": "Batman",
+    "Devil Fruit": "Bat SMILE"
+  },
+  {
+    "Character": "Bellamy",
+    "Devil Fruit": "Bane Bane no Mi"
+  },
+  {
+    "Character": "Belo Betty",
+    "Devil Fruit": "Kobu Kobu no Mi"
+  },
+  {
+    "Character": "Bentham",
+    "Devil Fruit": "Mane Mane no Mi"
+  },
+  {
+    "Character": "Bian",
+    "Devil Fruit": "Mushi Mushi no Mi, Model: Suzumebachi"
+  },
+  {
+    "Character": "Black Maria",
+    "Devil Fruit": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli"
+  },
+  {
+    "Character": "Blamenco",
+    "Devil Fruit": "Poke Poke no Mi"
+  },
+  {
+    "Character": "Blueno",
+    "Devil Fruit": "Doa Doa no Mi"
+  },
+  {
+    "Character": "Boa Hancock",
+    "Devil Fruit": "Mero Mero no Mi"
+  },
+  {
+    "Character": "Boa Marigold",
+    "Devil Fruit": "Hebi Hebi no Mi, Model: King Cobra"
+  },
+  {
+    "Character": "Boa Sandersonia",
+    "Devil Fruit": "Hebi Hebi no Mi, Model: Anaconda"
+  },
+  {
+    "Character": "Borsalino",
+    "Devil Fruit": "Pika Pika no Mi"
+  },
+  {
+    "Character": "Briscola",
+    "Devil Fruit": "Gorilla SMILE"
+  },
+  {
+    "Character": "Brook",
+    "Devil Fruit": "Yomi Yomi no Mi"
+  },
+  {
+    "Character": "Buffalo",
+    "Devil Fruit": "Guru Guru no Mi"
+  },
+  {
+    "Character": "Buggy",
+    "Devil Fruit": "Bara Bara no Mi"
+  },
+  {
+    "Character": "Bunbuku",
+    "Devil Fruit": "Inu Inu no Mi, Model: Tanuki"
+  },
+  {
+    "Character": "Caesar Clown",
+    "Devil Fruit": "Gasu Gasu no Mi"
+  },
+  {
+    "Character": "Caimanlady",
+    "Devil Fruit": "Caiman SMILE"
+  },
+  {
+    "Character": "Capone Bege",
+    "Devil Fruit": "Shiro Shiro no Mi"
+  },
+  {
+    "Character": "Caribou",
+    "Devil Fruit": "Numa Numa no Mi"
+  },
+  {
+    "Character": "Carmel",
+    "Devil Fruit": "Soru Soru no Mi"
+  },
+  {
+    "Character": "Catarina Devon",
+    "Devil Fruit": "Inu Inu no Mi, Model: Kyubi"
+  },
+  {
+    "Character": "Chaka",
+    "Devil Fruit": "Inu Inu no Mi, Model: Jackal"
+  },
+  {
+    "Character": "Charlotte Br    u00fbl    u00e9e",
+    "Devil Fruit": "Mira Mira no Mi"
+  },
+  {
+    "Character": "Charlotte Cracker",
+    "Devil Fruit": "Bisu Bisu no Mi"
+  },
+  {
+    "Character": "Charlotte Daifuku",
+    "Devil Fruit": "Hoya Hoya no Mi"
+  },
+  {
+    "Character": "Charlotte Galette",
+    "Devil Fruit": "Bata Bata no Mi"
+  },
+  {
+    "Character": "Charlotte Katakuri",
+    "Devil Fruit": "Mochi Mochi no Mi"
+  },
+  {
+    "Character": "Charlotte Linlin",
+    "Devil Fruit": "Soru Soru no Mi"
+  },
+  {
+    "Character": "Charlotte Mont-d'Or",
+    "Devil Fruit": "Buku Buku no Mi"
+  },
+  {
+    "Character": "Charlotte Newshi",
+    "Devil Fruit": "Gocha Gocha no Mi"
+  },
+  {
+    "Character": "Charlotte Opera",
+    "Devil Fruit": "Kuri Kuri no Mi"
+  },
+  {
+    "Character": "Charlotte Oven",
+    "Devil Fruit": "Netsu Netsu no Mi"
+  },
+  {
+    "Character": "Charlotte Perospero",
+    "Devil Fruit": "Pero Pero no Mi"
+  },
+  {
+    "Character": "Charlotte Pudding",
+    "Devil Fruit": "Memo Memo no Mi"
+  },
+  {
+    "Character": "Charlotte Smoothie",
+    "Devil Fruit": "Shibo Shibo no Mi"
+  },
+  {
+    "Character": "Crocodile",
+    "Devil Fruit": "Suna Suna no Mi"
+  },
+  {
+    "Character": "Dachoman",
+    "Devil Fruit": "Ostrich SMILE"
+  },
+  {
+    "Character": "Daifugo",
+    "Devil Fruit": "Scorpion SMILE"
+  },
+  {
+    "Character": "Dalmatian",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Dalton",
+    "Devil Fruit": "Ushi Ushi no Mi, Model: Bison"
+  },
+  {
+    "Character": "Daz Bonez",
+    "Devil Fruit": "Supa Supa no Mi"
+  },
+  {
+    "Character": "Diamante",
+    "Devil Fruit": "Hira Hira no Mi"
+  },
+  {
+    "Character": "Dobon",
+    "Devil Fruit": "Hippo SMILE"
+  },
+  {
+    "Character": "Doc Q",
+    "Devil Fruit": "Shiku Shiku no Mi"
+  },
+  {
+    "Character": "Donquixote Doflamingo",
+    "Devil Fruit": "Ito Ito no Mi"
+  },
+  {
+    "Character": "Donquixote Rosinante",
+    "Devil Fruit": "Nagi Nagi no Mi"
+  },
+  {
+    "Character": "Drophy",
+    "Devil Fruit": "Mogu Mogu no Mi"
+  },
+  {
+    "Character": "Edward Newgate",
+    "Devil Fruit": "Gura Gura no Mi"
+  },
+  {
+    "Character": "Emporio Ivankov",
+    "Devil Fruit": "Horu Horu no Mi"
+  },
+  {
+    "Character": "Enel",
+    "Devil Fruit": "Goro Goro no Mi"
+  },
+  {
+    "Character": "Epoida",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Eustass Kid",
+    "Devil Fruit": "Jiki Jiki no Mi"
+  },
+  {
+    "Character": "Fourtricks",
+    "Devil Fruit": "Chicken SMILE"
+  },
+  {
+    "Character": "Foxy",
+    "Devil Fruit": "Noro Noro no Mi"
+  },
+  {
+    "Character": "Fuga",
+    "Devil Fruit": "Horse SMILE"
+  },
+  {
+    "Character": "Funkfreed",
+    "Devil Fruit": "Zou Zou no Mi"
+  },
+  {
+    "Character": "Galdino",
+    "Devil Fruit": "Doru Doru no Mi"
+  },
+  {
+    "Character": "Gazelleman",
+    "Devil Fruit": "Gazelle SMILE"
+  },
+  {
+    "Character": "Gecko Moria",
+    "Devil Fruit": "Kage Kage no Mi"
+  },
+  {
+    "Character": "Gem",
+    "Devil Fruit": "Bomu Bomu no Mi"
+  },
+  {
+    "Character": "Genrin",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Ginrummy",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Giolla",
+    "Devil Fruit": "Ato Ato no Mi"
+  },
+  {
+    "Character": "Gladius",
+    "Devil Fruit": "Pamu Pamu no Mi"
+  },
+  {
+    "Character": "Hamlet",
+    "Devil Fruit": "Giraffe SMILE"
+  },
+  {
+    "Character": "Han",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Hina",
+    "Devil Fruit": "Ori Ori no Mi"
+  },
+  {
+    "Character": "Hold'em",
+    "Devil Fruit": "Lion SMILE"
+  },
+  {
+    "Character": "Inazuma",
+    "Devil Fruit": "Choki Choki no Mi"
+  },
+  {
+    "Character": "Issho",
+    "Devil Fruit": "Zushi Zushi no Mi"
+  },
+  {
+    "Character": "Jabra",
+    "Devil Fruit": "Inu Inu no Mi, Model: Wolf"
+  },
+  {
+    "Character": "Jack",
+    "Devil Fruit": "Zou Zou no Mi, Model: Mammoth"
+  },
+  {
+    "Character": "Jesus Burgess",
+    "Devil Fruit": "Riki Riki no Mi"
+  },
+  {
+    "Character": "Jewelry Bonney",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Joy Boy",
+    "Devil Fruit": "Gomu Gomu no Mi (aka Hito Hito no Mi, Model: Nika)"
+  },
+  {
+    "Character": "Jozu",
+    "Devil Fruit": "Kira Kira no Mi"
+  },
+  {
+    "Character": "Kabu",
+    "Devil Fruit": "Mushi Mushi no Mi, Model: Kabutomushi"
+  },
+  {
+    "Character": "Kaidou",
+    "Devil Fruit": "Uo Uo no Mi, Model: Seiryu"
+  },
+  {
+    "Character": "Kaku",
+    "Devil Fruit": "Ushi Ushi no Mi, Model: Giraffe"
+  },
+  {
+    "Character": "Kalifa",
+    "Devil Fruit": "Awa Awa no Mi"
+  },
+  {
+    "Character": "Karasu",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Kelly Funk",
+    "Devil Fruit": "Jake Jake no Mi"
+  },
+  {
+    "Character": "Killer",
+    "Devil Fruit": "Elephant SMILE"
+  },
+  {
+    "Character": "Kin'emon",
+    "Devil Fruit": "Fuku Fuku no Mi"
+  },
+  {
+    "Character": "King",
+    "Devil Fruit": "Ryu Ryu no Mi, Model: Pteranodon"
+  },
+  {
+    "Character": "Koito",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Kozuki Momonosuke",
+    "Devil Fruit": "Uo Uo no Mi, Model: Seiryu (Artificial)"
+  },
+  {
+    "Character": "Kozuki Toki",
+    "Devil Fruit": "Toki Toki no Mi"
+  },
+  {
+    "Character": "Kurozumi Higurashi",
+    "Devil Fruit": "Mane Mane no Mi"
+  },
+  {
+    "Character": "Kurozumi Kanjuro",
+    "Devil Fruit": "Fude Fude no Mi"
+  },
+  {
+    "Character": "Kurozumi Orochi",
+    "Devil Fruit": "Hebi Hebi no Mi, Model: Yamata no Orochi"
+  },
+  {
+    "Character": "Kurozumi Semimaru",
+    "Devil Fruit": "Bari Bari no Mi"
+  },
+  {
+    "Character": "Kuzan",
+    "Devil Fruit": "Hie Hie no Mi"
+  },
+  {
+    "Character": "Laffitte",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Lassoo",
+    "Devil Fruit": "Inu Inu no Mi, Model: Dachshund"
+  },
+  {
+    "Character": "Leo",
+    "Devil Fruit": "Nui Nui no Mi"
+  },
+  {
+    "Character": "Machvise",
+    "Devil Fruit": "Ton Ton no Mi"
+  },
+  {
+    "Character": "Madilloman",
+    "Devil Fruit": "Armadillo SMILE"
+  },
+  {
+    "Character": "Magellan",
+    "Devil Fruit": "Doku Doku no Mi"
+  },
+  {
+    "Character": "Mansherry",
+    "Devil Fruit": "Chiyu Chiyu no Mi"
+  },
+  {
+    "Character": "Marco",
+    "Devil Fruit": "Tori Tori no Mi, Model Phoenix"
+  },
+  {
+    "Character": "Marshall D. Teach",
+    "Devil Fruit": "Gura Gura no Mi"
+  },
+  {
+    "Character": "Marshall D. Teach",
+    "Devil Fruit": "Yami Yami no Mi"
+  },
+  {
+    "Character": "Mikita",
+    "Devil Fruit": "Kilo Kilo no Mi"
+  },
+  {
+    "Character": "Minochihuahua",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Minokoala",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Minorhinoceros",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Minotaurus",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Minozebra",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Mizerka",
+    "Devil Fruit": "Gorilla SMILE"
+  },
+  {
+    "Character": "Monet",
+    "Devil Fruit": "Yuki Yuki no Mi"
+  },
+  {
+    "Character": "Monkey D. Luffy",
+    "Devil Fruit": "Gomu Gomu no Mi (aka Hito Hito no Mi, Model: Nika)"
+  },
+  {
+    "Character": "Morgans",
+    "Devil Fruit": "Tori Tori no Mi, Model: Albatross"
+  },
+  {
+    "Character": "Morley",
+    "Devil Fruit": "Oshi Oshi no Mi"
+  },
+  {
+    "Character": "Mouseman",
+    "Devil Fruit": "Mouse SMILE"
+  },
+  {
+    "Character": "Nico Robin",
+    "Devil Fruit": "Hana Hana no Mi"
+  },
+  {
+    "Character": "Noriko",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Nure-Onna",
+    "Devil Fruit": "Hognose Snake SMILE"
+  },
+  {
+    "Character": "Onigumo",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Onimaru",
+    "Devil Fruit": "Hito Hito no Mi, Model: Onyudo"
+  },
+  {
+    "Character": "Page One",
+    "Devil Fruit": "Ryu Ryu no Mi, Model: Spinosaurus"
+  },
+  {
+    "Character": "Pandaman",
+    "Devil Fruit": "Panda SMILE"
+  },
+  {
+    "Character": "Pekoms",
+    "Devil Fruit": "Kame Kame no Mi"
+  },
+  {
+    "Character": "Pell",
+    "Devil Fruit": "Tori Tori no Mi, Model: Falcon"
+  },
+  {
+    "Character": "Perona",
+    "Devil Fruit": "Horo Horo no Mi"
+  },
+  {
+    "Character": "Pica",
+    "Devil Fruit": "Ishi Ishi no Mi"
+  },
+  {
+    "Character": "Pierre",
+    "Devil Fruit": "Uma Uma no Mi"
+  },
+  {
+    "Character": "Poker",
+    "Devil Fruit": "Rattlesnake SMILE"
+  },
+  {
+    "Character": "Portgas D. Ace",
+    "Devil Fruit": "Mera Mera no Mi"
+  },
+  {
+    "Character": "Queen",
+    "Devil Fruit": "Ryu Ryu no Mi, Model: Brachiosaurus"
+  },
+  {
+    "Character": "Rabbitman",
+    "Devil Fruit": "Rabbit SMILE"
+  },
+  {
+    "Character": "Raizo",
+    "Devil Fruit": "Maki Maki no Mi"
+  },
+  {
+    "Character": "Rob Lucci",
+    "Devil Fruit": "Neko Neko no Mi, Model: Leopard"
+  },
+  {
+    "Character": "S-Bear",
+    "Devil Fruit": "Nikyu Nikyu no Mi (Artificial)"
+  },
+  {
+    "Character": "S-Shark",
+    "Devil Fruit": "Sui Sui no Mi (Artificial)"
+  },
+  {
+    "Character": "S-Snake",
+    "Devil Fruit": "Mero Mero no Mi (Artificial)"
+  },
+  {
+    "Character": "Sabo",
+    "Devil Fruit": "Mera Mera no Mi"
+  },
+  {
+    "Character": "Sakazuki",
+    "Devil Fruit": "Magu Magu no Mi"
+  },
+  {
+    "Character": "Saki",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Sanjuan Wolf",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Sarahebi",
+    "Devil Fruit": "Snake SMILE"
+  },
+  {
+    "Character": "Sasaki",
+    "Devil Fruit": "Ryu Ryu no Mi, Model: Triceratops"
+  },
+  {
+    "Character": "Scratchmen Apoo",
+    "Devil Fruit": "Oto Oto no Mi"
+  },
+  {
+    "Character": "Sengoku",
+    "Devil Fruit": "Hito Hito no Mi, Model: Daibutsu"
+  },
+  {
+    "Character": "Senor Pink",
+    "Devil Fruit": "Sui Sui no Mi"
+  },
+  {
+    "Character": "Sharinguru",
+    "Devil Fruit": "Shari Shari no Mi"
+  },
+  {
+    "Character": "Sheepshead",
+    "Devil Fruit": "Sheep SMILE"
+  },
+  {
+    "Character": "Shiki",
+    "Devil Fruit": "Fuwa Fuwa no Mi"
+  },
+  {
+    "Character": "Shimotsuki Yasuie",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Shinobu",
+    "Devil Fruit": "Juku Juku no Mi"
+  },
+  {
+    "Character": "Shiryu",
+    "Devil Fruit": "Suke Suke no Mi"
+  },
+  {
+    "Character": "Shu",
+    "Devil Fruit": "Sabi Sabi no Mi"
+  },
+  {
+    "Character": "Smiley",
+    "Devil Fruit": "Sara Sara no Mi, Model: Axolotl"
+  },
+  {
+    "Character": "Smoker",
+    "Devil Fruit": "Moku Moku no Mi"
+  },
+  {
+    "Character": "Snakeman",
+    "Devil Fruit": "Snake SMILE"
+  },
+  {
+    "Character": "Solitaire",
+    "Devil Fruit": "Monkey SMILE"
+  },
+  {
+    "Character": "Speed",
+    "Devil Fruit": "Horse SMILE"
+  },
+  {
+    "Character": "Streusen",
+    "Devil Fruit": "Kuku Kuku no Mi"
+  },
+  {
+    "Character": "Stronger",
+    "Devil Fruit": "Uma Uma no Mi, Model: Pegasus"
+  },
+  {
+    "Character": "Sugar",
+    "Devil Fruit": "Hobi Hobi no Mi"
+  },
+  {
+    "Character": "Tama (Human)",
+    "Devil Fruit": "Kibi Kibi no Mi"
+  },
+  {
+    "Character": "Tamago",
+    "Devil Fruit": "Tama Tama no Mi"
+  },
+  {
+    "Character": "Tenjo-Sagari",
+    "Devil Fruit": "White Snake SMILE"
+  },
+  {
+    "Character": "Toko",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Tony Tony Chopper",
+    "Devil Fruit": "Hito Hito no Mi"
+  },
+  {
+    "Character": "Trafalgar D. Water Law",
+    "Devil Fruit": "Ope Ope no Mi"
+  },
+  {
+    "Character": "Trebol",
+    "Devil Fruit": "Beta Beta no Mi"
+  },
+  {
+    "Character": "Tsuru (Marine)",
+    "Devil Fruit": "Woshu Woshu no Mi"
+  },
+  {
+    "Character": "Ulti",
+    "Devil Fruit": "Ryu Ryu no Mi, Model: Pachycephalosaurus"
+  },
+  {
+    "Character": "Urouge",
+    "Devil Fruit": "(unknown)"
+  },
+  {
+    "Character": "Uta",
+    "Devil Fruit": "Uta Uta no Mi"
+  },
+  {
+    "Character": "Van Augur",
+    "Devil Fruit": "Wapu Wapu no Mi"
+  },
+  {
+    "Character": "Vander Decken IX",
+    "Devil Fruit": "Mato Mato no Mi"
+  },
+  {
+    "Character": "Vegapunk",
+    "Devil Fruit": "Nomi Nomi no Mi"
+  },
+  {
+    "Character": "Very Good",
+    "Devil Fruit": "Beri Beri no Mi"
+  },
+  {
+    "Character": "Viola",
+    "Devil Fruit": "Giro Giro no Mi"
+  },
+  {
+    "Character": "Wanyudo",
+    "Devil Fruit": "Pug SMILE"
+  },
+  {
+    "Character": "Wapol",
+    "Devil Fruit": "Baku Baku no Mi"
+  },
+  {
+    "Character": "Who's-Who",
+    "Devil Fruit": "Neko Neko no Mi, Model: Sabertooth"
+  },
+  {
+    "Character": "X Drake",
+    "Devil Fruit": "Ryu Ryu no Mi, Model: Allosaurus"
+  },
+  {
+    "Character": "Yamato",
+    "Devil Fruit": "Inu Inu no Mi, Model: Okuchi no Makami"
+  },
+  {
+    "Character": "Zala",
+    "Devil Fruit": "Toge Toge no Mi"
+  }
+]
